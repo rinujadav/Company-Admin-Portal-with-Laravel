@@ -1,0 +1,69 @@
+.pull-right {
+    float: right;
+    margin-top: -43px;
+  }
+
+.style {
+  width: 50%;
+  margin-left: 25%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+
+  /* Navbar Styles */
+  .navbar {
+    background-color: #333 !important;
+    color: #fff;
+    padding: 10px;
+  }
+
+  .navbar-brand {
+    color: #fff !important; 
+    font-size: 30px !important;
+    text-decoration: none;
+  }
+
+  .nav-link {
+    display: block;
+    padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+    font-size: 20px !important;
+    font-weight: var(--bs-nav-link-font-weight);
+    color: #fff !important;
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+  }
+
+    /* Footer Styles */
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 37px;
+    text-align: center;
+    position: absolute;
+    /* bottom: 0; */
+    width: 100%;
+    height: 40px; /* Adjust this value to set the height of your footer */
+  }
+
+  .footer p {
+    margin: 0;
+  }
+
+
+
+  
+
